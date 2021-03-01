@@ -1,4 +1,6 @@
-package com.epam.cashier;
+package com.epam.cashier.atm;
+
+import com.epam.cashier.*;
 
 import java.util.Arrays;
 import java.util.Objects;
