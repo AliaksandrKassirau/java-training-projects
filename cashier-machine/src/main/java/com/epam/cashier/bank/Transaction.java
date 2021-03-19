@@ -1,13 +1,10 @@
 package com.epam.cashier.bank;
 
+import lombok.Data;
+
+@Data
 public class Transaction {
-    private double amount;
 
-    public Transaction(double amount) {
-        this.amount = amount;
-    }
+	private final double amount;
 
-    public double getAmount() {
-        return amount;
-    }
 }

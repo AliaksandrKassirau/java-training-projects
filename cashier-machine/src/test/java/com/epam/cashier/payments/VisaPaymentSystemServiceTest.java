@@ -6,6 +6,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import static org.mockito.Mockito.*;
 
+import com.epam.cashier.bank.Transaction;
 import com.epam.cashier.core.CashType;
 import com.epam.cashier.payments.banks.BankService;
 import com.epam.cashier.payments.transactions.GetBalanceTransactionPayload;
@@ -29,6 +30,9 @@ public class VisaPaymentSystemServiceTest {
 
 		Assertions.assertEquals(10d, balanceInfo.getAmount());
 		verify(mock, times(1)).get("123");
+		
+		
+		
 	}
 
 }
