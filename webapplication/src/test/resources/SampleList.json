@@ -1,0 +1,36 @@
+[
+  {
+    "type": "PHONE",
+    "value": "asldhtfgnh",
+    "contactDetails": {
+      "addressLine1": "5025 Excelsior Blvd.",
+      "addressLine2": "Suite 1600",
+      "addressLine3": null,
+      "city": "St. Louis Park",
+      "state": "MN",
+      "province": "MN",
+      "country": "US",
+      "zip": null,
+      "email": "hkaparwan@inspirebrands.com",
+      "phone": "952-456-6630",
+      "dateTime": "2010-01-01T01:12:00"
+    }
+  },
+  {
+    "type": "EMAIL",
+    "value": "asldhtfgnh",
+    "contactDetails": {
+      "addressLine1": "5025 Excelsior Blvd.",
+      "addressLine2": "Suite 1600",
+      "addressLine3": null,
+      "city": "St. Louis Park",
+      "state": "MN",
+      "province": "MN",
+      "country": "US",
+      "zip": null,
+      "email": "hkaparwan@inspirebrands.com",
+      "phone": "952-456-6630",
+      "dateTime": "2010-01-01T01:12:00"
+    }
+  }
+]
