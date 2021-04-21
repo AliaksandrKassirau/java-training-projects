@@ -1,0 +1,6 @@
+rootProject.name = 'tick-tack-toe'
+include 'core'
+include 'desktop'
+include 'console'
+include 'web'
+
